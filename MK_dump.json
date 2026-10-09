@@ -1,0 +1,1246 @@
+{
+  "mataKuliah": [
+    {
+      "No": "1",
+      "Mata Kuliah": "TKDE262102 Pemrograman Dasar Kelas: A",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Bimo Sunarfri Hantono, S.T., M.Eng.2. Dr. Eng. Silmi Fauziati, S.T., M.T.",
+      "Jadwal": "Jumat, 13:00-14:40"
+    },
+    {
+      "No": "2",
+      "Mata Kuliah": "TKDE262102 Pemrograman Dasar Kelas: C",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Bimo Sunarfri Hantono, S.T., M.Eng.2. Dr. Eng. Silmi Fauziati, S.T., M.T.",
+      "Jadwal": "Kamis, 09:30-11:10"
+    },
+    {
+      "No": "3",
+      "Mata Kuliah": "TKDE262102 Pemrograman Dasar Kelas: D",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Eng. Silmi Fauziati, S.T., M.T.2. Agus Bejo, S.T., M.Eng., D.Eng.",
+      "Jadwal": "Rabu, 09:30-11:10"
+    },
+    {
+      "No": "4",
+      "Mata Kuliah": "TKDE262102 Pemrograman Dasar Kelas: IUPTB",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Ahmad Nasikun, M.Sc.2. Syukron Abu Ishaq Alfarozi, S.T., Ph.D.",
+      "Jadwal": "Selasa, 13:00-14:40"
+    },
+    {
+      "No": "5",
+      "Mata Kuliah": "TKEE262101 Vektor dan Matriks Kelas: A",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Husni Rois Ali, S.T., M.Eng., Ph.D., DIC., SMIEEE.2. Dr.-Ing. Yohan Fajar Sidik, S.T., M.Eng.",
+      "Jadwal": "Senin, 13:00-14:40"
+    },
+    {
+      "No": "6",
+      "Mata Kuliah": "TKEE262101 Vektor dan Matriks Kelas: D",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Husni Rois Ali, S.T., M.Eng., Ph.D., DIC., SMIEEE.2. Dr.-Ing. Yohan Fajar Sidik, S.T., M.Eng.",
+      "Jadwal": "Kamis, 09:30-11:10"
+    },
+    {
+      "No": "7",
+      "Mata Kuliah": "TKEE262102 Matematika Diskrit Kelas: A",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Adha Imam Cahyadi, S.T., M.Eng., D.Eng.2. Dzuhri Radityo Utomo, S.T., M.S., Ph.D.",
+      "Jadwal": "Jumat, 09:00-10:40"
+    },
+    {
+      "No": "8",
+      "Mata Kuliah": "TKEE262102 Matematika Diskrit Kelas: D",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Adha Imam Cahyadi, S.T., M.Eng., D.Eng.2. Dzuhri Radityo Utomo, S.T., M.S., Ph.D.",
+      "Jadwal": "Jumat, 13:00-14:40"
+    },
+    {
+      "No": "9",
+      "Mata Kuliah": "TKEE262103 Teknik Digital Kelas: A",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Dr. Eng. Ir. Risanuri Hidayat, M.Sc.2. Addin Suwastono, S.T., M.Eng.",
+      "Jadwal": "Rabu, 13:00-15:30"
+    },
+    {
+      "No": "10",
+      "Mata Kuliah": "TKEE262103 Teknik Digital Kelas: D",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Dr. Eng. Ir. Risanuri Hidayat, M.Sc.2. Prapto Nugroho, S.T., M.Eng., D.Eng.",
+      "Jadwal": "Selasa, 13:00-15:30"
+    },
+    {
+      "No": "11",
+      "Mata Kuliah": "TKEE262104 Keterampilan Dasar Teknik Elektro Kelas: A",
+      "SKS": "1",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Prapto Nugroho, S.T., M.Eng., D.Eng.2. Dzuhri Radityo Utomo, S.T., M.S., Ph.D.",
+      "Jadwal": "Kamis, 13:00-15:30"
+    },
+    {
+      "No": "12",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: A",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "13",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: A",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Rini Dharmastiti, M.Sc., Ph.D.2. Mohammad Rais Alfiansyah Taufiq, S.T., M.Sc.",
+      "Jadwal": "Selasa, 07:00-09:30"
+    },
+    {
+      "No": "14",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: B",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "15",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: B",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Ghufran Aulia, S.Si., Ph.D.2. Ayu Rahayu Anggraeni, S.Si., M.Eng., Ph.D",
+      "Jadwal": "Selasa, 07:00-09:30"
+    },
+    {
+      "No": "16",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: C",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "17",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: C",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Nopriadi, S.T., M.Sc.2. Ferdiansjah, S.T., M.Eng.Sc.",
+      "Jadwal": "Selasa, 07:00-09:30"
+    },
+    {
+      "No": "18",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: D",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Mukhammad Rizka Fahmi Amrozi, S.T., M.Sc., Ph.D.2. Nurul Alvia Istiqomah, S.T., M.Sc., Ph.D.",
+      "Jadwal": "Selasa, 07:00-09:30"
+    },
+    {
+      "No": "19",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: E",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Ir. Nur Abdillah Siddiq, S.T., IPP.2. Dr. Rafif Zufarihsan, S.T., M.T.",
+      "Jadwal": "Selasa, 07:00-09:30"
+    },
+    {
+      "No": "20",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: F",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Arumdyah Widiati, S.T., M.Sc., Ph.D.2. Hendy Setiawan, S.T., M.Eng., Ph.D.",
+      "Jadwal": "Selasa, 07:00-09:30"
+    },
+    {
+      "No": "21",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: G",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Zenith Purisha, S.Si., M.Sc., Ph.D.2. Faza Fawzan Bastarianto, S.T., M.Sc.(Eng)., M.Sc.",
+      "Jadwal": "Jumat, 07:00-09:30"
+    },
+    {
+      "No": "22",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: H",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Kurniawan Putra Santoso, S.T., M.Eng.2. Dewi Kartika Sari, S.Si., M.Sc.",
+      "Jadwal": "Selasa, 07:00-09:30"
+    },
+    {
+      "No": "23",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: I",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Wawan Budianta, S.T., M.Sc.2. Ahmad Tawfiequrrahman Yuliansyah, S.T., M.T., D.Eng.",
+      "Jadwal": "Selasa, 07:00-09:30"
+    },
+    {
+      "No": "24",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: IUP-A",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Ir. Panut Mulyono, M.Eng., D.Eng., IPU.2. Dr.Ing. Teguh Ariyanto, S.T., M.Eng.",
+      "Jadwal": "Selasa, 07:00-09:30"
+    },
+    {
+      "No": "25",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: IUP-B",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Cecep Pratama, S.Si., M.Si., D.Sc.2. Dr. Yan Restu Freski, S.T., M.Eng.",
+      "Jadwal": "Selasa, 07:00-09:30"
+    },
+    {
+      "No": "26",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: IUP-C",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Muhammad Waziz Wildan, M.Sc., Ph.D.2. Ryan Anugrah Putra, S.T., M.Sc.",
+      "Jadwal": "Selasa, 07:00-09:30"
+    },
+    {
+      "No": "27",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: IUP-D",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Dr. Ir. Andang Widi Harto, MT.2. Naelufa Syifna Wifaqotul Muna, S.Si., M.Sc.",
+      "Jadwal": "Selasa, 07:00-09:30"
+    },
+    {
+      "No": "28",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: IUP-E",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Cecep Pratama, S.Si., M.Si., D.Sc.2. Dr. Yan Restu Freski, S.T., M.Eng.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "29",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: IUP-F",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Dr. Ir. Andang Widi Harto, MT.2. Naelufa Syifna Wifaqotul Muna, S.Si., M.Sc.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "30",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: IUP-G",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Ir. Panut Mulyono, M.Eng., D.Eng., IPU.2. Ahmad Tawfiequrrahman Yuliansyah, S.T., M.T., D.Eng.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "31",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: J",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Rini Dharmastiti, M.Sc., Ph.D.2. Mohammad Rais Alfiansyah Taufiq, S.T., M.Sc.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "32",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: K",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Ghufran Aulia, S.Si., Ph.D.2. Ayu Rahayu Anggraeni, S.Si., M.Eng., Ph.D",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "33",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: L",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Nopriadi, S.T., M.Sc.2. Ferdiansjah, S.T., M.Eng.Sc.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "34",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: M",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Mukhammad Rizka Fahmi Amrozi, S.T., M.Sc., Ph.D.2. Nurul Alvia Istiqomah, S.T., M.Sc., Ph.D.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "35",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: N",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Ir. Nur Abdillah Siddiq, S.T., IPP.2. Faza Fawzan Bastarianto, S.T., M.Sc.(Eng)., M.Sc.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "36",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: O",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Arumdyah Widiati, S.T., M.Sc., Ph.D.2. Hendy Setiawan, S.T., M.Eng., Ph.D.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "37",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: P",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Wawan Budianta, S.T., M.Sc.2. Andika Monanta Emilidardi, S.T., M.Eng.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "38",
+      "Mata Kuliah": "TKKF262102 Kalkulus Kelas: Q",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Muhammad Waziz Wildan, M.Sc., Ph.D.2. Ryan Anugrah Putra, S.T., M.Sc.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "39",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: A",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "40",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: A",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. M. Arif Efendi, S.Si., M.Sc., Ph.D.2. Dr. Ir. Nur Abdillah Siddiq, S.T., IPP.",
+      "Jadwal": "Senin, 07:00-09:30"
+    },
+    {
+      "No": "41",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: B",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "42",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: B",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Intan Supraba, S.T., M.Sc., Ph.D., IPM.2. Ikhsan Setiawan, S.Si., M.Si.",
+      "Jadwal": "Senin, 07:00-09:30"
+    },
+    {
+      "No": "43",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: C",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "44",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: C",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Maulana Gilar Nugraha, S.T., M.Eng., Ph.D.2. Dr. Jonas Kristanto, S.T.",
+      "Jadwal": "Senin, 07:00-09:30"
+    },
+    {
+      "No": "45",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: D",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Saptono Budi Samodra, S.T., M.Sc.2. Kartika Palupi Savitri, S.T., M.Sc., Ph.D.",
+      "Jadwal": "Senin, 07:00-09:30"
+    },
+    {
+      "No": "46",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: E",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Ayodya Pradhipta Tenggara, Ph.D.2. Dzuhri Radityo Utomo, S.T., M.S., Ph.D.",
+      "Jadwal": "Senin, 07:00-09:30"
+    },
+    {
+      "No": "47",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: F",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Arumdyah Widiati, S.T., M.Sc., Ph.D.2. Prof. Muslikhin Hidayat, S.T., MT., Ph.D.",
+      "Jadwal": "Senin, 07:00-09:30"
+    },
+    {
+      "No": "48",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: G",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Eko Tri Sulistyani, S.Si., M.Sc.2. Mukmin Sapto Pamungkas, S.T., M.Eng.",
+      "Jadwal": "Senin, 07:00-09:30"
+    },
+    {
+      "No": "49",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: H",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Willie Prasidha, S.T., M.Eng.2. Prastowo Murti, S.Si., M.Eng., Ph.D.",
+      "Jadwal": "Senin, 07:00-09:30"
+    },
+    {
+      "No": "50",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: I",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. M. Arif Efendi, S.Si., M.Sc., Ph.D.2. Dr. Ir. Nur Abdillah Siddiq, S.T., IPP.",
+      "Jadwal": "Rabu, 07:00-09:30"
+    },
+    {
+      "No": "51",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: IUP-A",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Abdul Basith, ST., M.Si., Ph.D2. Ridwan Wicaksono, S.T., M.Eng., Ph.D.",
+      "Jadwal": "Senin, 07:00-09:30"
+    },
+    {
+      "No": "52",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: IUP-B",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Mirza Satriawan, S.Si., M.Si., Ph.D.2. Ir. Jarot Setyowiyoto, M.Sc., Ph.D.",
+      "Jadwal": "Senin, 07:00-09:30"
+    },
+    {
+      "No": "53",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: IUP-C",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Khasani, S.T., M.Eng.2. Dr.Eng. Wahyu Waskito Aji, M.Sc., S.Si.",
+      "Jadwal": "Senin, 07:00-09:30"
+    },
+    {
+      "No": "54",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: IUP-D",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Taqia Rahman, S.T., M.Sc., Ph.D.2. Moh. Adhib Ulil Absor, S.Si., M.Sc., Ph.D.",
+      "Jadwal": "Senin, 07:00-09:30"
+    },
+    {
+      "No": "55",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: IUP-E",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Abdul Basith, ST., M.Si., Ph.D2. Ridwan Wicaksono, S.T., M.Eng., Ph.D.",
+      "Jadwal": "Rabu, 07:00-09:30"
+    },
+    {
+      "No": "56",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: IUP-F",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Eng. Adhika Widyaparaga, S.T., M.Biomed.E. 2. Ir. Jarot Setyowiyoto, M.Sc., Ph.D.",
+      "Jadwal": "Rabu, 07:00-09:30"
+    },
+    {
+      "No": "57",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: IUP-G",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Taqia Rahman, S.T., M.Sc., Ph.D.2. Moh. Adhib Ulil Absor, S.Si., M.Sc., Ph.D.",
+      "Jadwal": "Rabu, 07:00-09:30"
+    },
+    {
+      "No": "58",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: J",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Intan Supraba, S.T., M.Sc., Ph.D., IPM.2. Ikhsan Setiawan, S.Si., M.Si.",
+      "Jadwal": "Rabu, 07:00-09:30"
+    },
+    {
+      "No": "59",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: K",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Maulana Gilar Nugraha, S.T., M.Eng., Ph.D.2. Dr. Jonas Kristanto, S.T.",
+      "Jadwal": "Rabu, 07:00-09:30"
+    },
+    {
+      "No": "60",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: L",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Saptono Budi Samodra, S.T., M.Sc.2. Kartika Palupi Savitri, S.T., M.Sc., Ph.D.",
+      "Jadwal": "Rabu, 07:00-09:30"
+    },
+    {
+      "No": "61",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: M",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Ayodya Pradhipta Tenggara, Ph.D.2. Dzuhri Radityo Utomo, S.T., M.S., Ph.D.",
+      "Jadwal": "Rabu, 07:00-09:30"
+    },
+    {
+      "No": "62",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: N",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Khasani, S.T., M.Eng.2. Dr. Eng. Adhika Widyaparaga, S.T., M.Biomed.E.",
+      "Jadwal": "Rabu, 07:00-09:30"
+    },
+    {
+      "No": "63",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: O",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Arif Widyatama, S.T., M.Eng.2. Prastowo Murti, S.Si., M.Eng., Ph.D.",
+      "Jadwal": "Rabu, 07:00-09:30"
+    },
+    {
+      "No": "64",
+      "Mata Kuliah": "TKKF262103 Fisika Dasar Kelas: P",
+      "SKS": "3",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Arumdyah Widiati, S.T., M.Sc., Ph.D.2. Danang Tri Hartanto, S.T., M.Eng.",
+      "Jadwal": "Rabu, 07:00-09:30"
+    },
+    {
+      "No": "65",
+      "Mata Kuliah": "UNKU260010 Bahasa Indonesia Kelas: A",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "66",
+      "Mata Kuliah": "UNKU260012 Humaniora Digital Kelas: A",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "67",
+      "Mata Kuliah": "UNKU260012 Humaniora Digital Kelas: A",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Odilia Renaningtyas Manifesty, S.T., MA(UD)., Ph.D.2. Zulfikar Dinar Wahidayat Putra, S.T., M.Sc.",
+      "Jadwal": "Jumat, 09:30-11:10"
+    },
+    {
+      "No": "68",
+      "Mata Kuliah": "UNKU260012 Humaniora Digital Kelas: B",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Zulfikar Dinar Wahidayat Putra, S.T., M.Sc.2. Odilia Renaningtyas Manifesty, S.T., MA(UD)., Ph.D.",
+      "Jadwal": "Jumat, 09:30-11:10"
+    },
+    {
+      "No": "69",
+      "Mata Kuliah": "UNKU260012 Humaniora Digital Kelas: C",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dani Adhipta, S.Si., M.T.2. Muhammad Nur Rizal, S.T., M.Sc., Ph.D.",
+      "Jadwal": "Jumat, 09:30-11:10"
+    },
+    {
+      "No": "70",
+      "Mata Kuliah": "UNKU260012 Humaniora Digital Kelas: D",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Muhammad Nur Rizal, S.T., M.Sc., Ph.D.2. Dani Adhipta, S.Si., M.T.",
+      "Jadwal": "Jumat, 09:30-11:10"
+    },
+    {
+      "No": "71",
+      "Mata Kuliah": "UNKU260012 Humaniora Digital Kelas: E",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Heri Sutanta, S.T., M.Sc., Ph.D.2. Dedi Atunggal SP., ST., M.Sc",
+      "Jadwal": "Jumat, 09:30-11:10"
+    },
+    {
+      "No": "72",
+      "Mata Kuliah": "UNKU260012 Humaniora Digital Kelas: F",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dedi Atunggal SP., ST., M.Sc2. Heri Sutanta, S.T., M.Sc., Ph.D.",
+      "Jadwal": "Jumat, 09:30-11:10"
+    },
+    {
+      "No": "73",
+      "Mata Kuliah": "UNKU260012 Humaniora Digital Kelas: G",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Muhammad Mufti Azis, S.T., M.Sc., Ph.D.2. Danang Tri Hartanto, S.T., M.Eng.",
+      "Jadwal": "Jumat, 09:30-11:10"
+    },
+    {
+      "No": "74",
+      "Mata Kuliah": "UNKU260012 Humaniora Digital Kelas: H",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Angga Trisna Yudhistira, S.T., .M.Eng., IPP.2. Prof. Dr. Techn. Ir. Danang Parikesit, M.Sc.",
+      "Jadwal": "Jumat, 09:30-11:10"
+    },
+    {
+      "No": "75",
+      "Mata Kuliah": "UNKU260012 Humaniora Digital Kelas: I",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Ir. I Wayan Warmada2. Dr. Ir. Haryono Budi Santosa, M.Sc.",
+      "Jadwal": "Jumat, 09:30-11:10"
+    },
+    {
+      "No": "76",
+      "Mata Kuliah": "UNKU260012 Humaniora Digital Kelas: IUP-A",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Ir. Dwikorita Karnawati, M.Sc., Ph.D.2. Prof. Nazrul Effendy, S.T., MT.,Ph.D.",
+      "Jadwal": "Jumat, 09:30-11:10"
+    },
+    {
+      "No": "77",
+      "Mata Kuliah": "UNKU260012 Humaniora Digital Kelas: IUP-B",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Nazrul Effendy, S.T., MT.,Ph.D.2. Prof. Ir. Dwikorita Karnawati, M.Sc., Ph.D.",
+      "Jadwal": "Jumat, 09:30-11:10"
+    },
+    {
+      "No": "78",
+      "Mata Kuliah": "UNKU260012 Humaniora Digital Kelas: J",
+      "SKS": "2",
+      "Semester": "1",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Ir. Haryono Budi Santosa, M.Sc.2. Dr. Ir. I Wayan Warmada",
+      "Jadwal": "Jumat, 09:30-11:10"
+    },
+    {
+      "No": "79",
+      "Mata Kuliah": "TKDE262203 Statistika Kelas: A",
+      "SKS": "2",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. RR Eny Sukani Rahayu, S.T., M.Eng.2. Dr. Rian Fatah Mochamad, S.T., M.Eng.",
+      "Jadwal": "Selasa, 13:00-14:40"
+    },
+    {
+      "No": "80",
+      "Mata Kuliah": "TKDE262203 Statistika Kelas: B",
+      "SKS": "2",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Roni Irnawan, S.T., M.Sc., Ph.D.2. Dr. Indriana Hidayah, S.T., M.T.",
+      "Jadwal": "Senin, 07:00-08:40"
+    },
+    {
+      "No": "81",
+      "Mata Kuliah": "TKDE262203 Statistika Kelas: C",
+      "SKS": "2",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Yusuf Susilo Wijoyo, S.T., M.Eng.2. Sigit Basuki Wibowo, S.T., M.Eng., Ph.D.",
+      "Jadwal": "Rabu, 13:00-14:40"
+    },
+    {
+      "No": "82",
+      "Mata Kuliah": "TKDE262203 Statistika Kelas: IUPTI",
+      "SKS": "2",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Dr. Eng. Fransisco Danang Wijaya, S.T., M.T.2. Dr. Rian Fatah Mochamad, S.T., M.Eng.",
+      "Jadwal": "Jumat, 13:00-14:40"
+    },
+    {
+      "No": "83",
+      "Mata Kuliah": "TKDE262301 Persamaan Diferensial Kelas: A",
+      "SKS": "3",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Fikri Waskito, S.T., M.Eng.2. Dr. Wijaya Yudha Atmaja, S.T., M.Eng.",
+      "Jadwal": "Rabu, 09:30-12:00"
+    },
+    {
+      "No": "84",
+      "Mata Kuliah": "TKDE262301 Persamaan Diferensial Kelas: C",
+      "SKS": "3",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Fikri Waskito, S.T., M.Eng.2. Dr. Wijaya Yudha Atmaja, S.T., M.Eng.",
+      "Jadwal": "Kamis, 09:30-12:00"
+    },
+    {
+      "No": "85",
+      "Mata Kuliah": "TKDE262301 Persamaan Diferensial Kelas: IUPTB",
+      "SKS": "3",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Fikri Waskito, S.T., M.Eng.2. Dr. Wijaya Yudha Atmaja, S.T., M.Eng.",
+      "Jadwal": "Senin, 09:30-12:00"
+    },
+    {
+      "No": "86",
+      "Mata Kuliah": "TKDE262302 Analisis Variabel Kompleks Kelas: A",
+      "SKS": "2",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Ridwan Wicaksono, S.T., M.Eng., Ph.D.2. Dr. Rian Fatah Mochamad, S.T., M.Eng.",
+      "Jadwal": "Kamis, 09:30-11:10"
+    },
+    {
+      "No": "87",
+      "Mata Kuliah": "TKDE262303 Isyarat dan Sistem Kelas: A",
+      "SKS": "3",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Dyonisius Dony Ariananda, S.T., M.Sc.2. Muhammad Faris, S.T., M.Sc.",
+      "Jadwal": "Senin, 09:30-11:10"
+    },
+    {
+      "No": "88",
+      "Mata Kuliah": "TKDE262303 Isyarat dan Sistem Kelas: B",
+      "SKS": "3",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Muhammad Faris, S.T., M.Sc.2. Dr. Dyonisius Dony Ariananda, S.T., M.Sc.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "89",
+      "Mata Kuliah": "TKDE262303 Isyarat dan Sistem Kelas: IUPTI",
+      "SKS": "3",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Dyonisius Dony Ariananda, S.T., M.Sc.2. Muhammad Faris, S.T., M.Sc.",
+      "Jadwal": "Selasa, 13:00-15:30"
+    },
+    {
+      "No": "90",
+      "Mata Kuliah": "TKDE262304 Analisis Untai Elektrik DC Kelas: A",
+      "SKS": "2",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Bambang Sugiyantoro, M.T.2. Dr. Ir. Mokhammad Isnaeni Bambang Setyonegoro, M.T.3. Harry Prabowo, S.T., M.T.",
+      "Jadwal": "Senin, 13:00-14:40"
+    },
+    {
+      "No": "91",
+      "Mata Kuliah": "TKDE262304 Analisis Untai Elektrik DC Kelas: C",
+      "SKS": "2",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Bambang Sugiyantoro, M.T.2. Dr. Ir. Mokhammad Isnaeni Bambang Setyonegoro, M.T.3. Harry Prabowo, S.T., M.T.",
+      "Jadwal": "Rabu, 09:30-11:10"
+    },
+    {
+      "No": "92",
+      "Mata Kuliah": "TKDE262304 Analisis Untai Elektrik DC Kelas: IUPTB",
+      "SKS": "2",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Dr. Eng. Fransisco Danang Wijaya, S.T., M.T.2. Dr.-Ing. Yohan Fajar Sidik, S.T., M.Eng.",
+      "Jadwal": "Jumat, 09:00-10:40"
+    },
+    {
+      "No": "93",
+      "Mata Kuliah": "TKDE262305 Praktikum Sains Dasar Kelas: A",
+      "SKS": "1",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "94",
+      "Mata Kuliah": "TKDE262305 Praktikum Sains Dasar Kelas: B",
+      "SKS": "1",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "95",
+      "Mata Kuliah": "TKDE262305 Praktikum Sains Dasar Kelas: C",
+      "SKS": "1",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "96",
+      "Mata Kuliah": "TKDE262307 Elektronika Dasar Kelas: A",
+      "SKS": "3",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Wahyu Dewanto, MT.2. Eka Firmansyah, S.T., M.Eng., Ph.D.",
+      "Jadwal": "Kamis, 13:00-15:30"
+    },
+    {
+      "No": "97",
+      "Mata Kuliah": "TKDE262307 Elektronika Dasar Kelas: C",
+      "SKS": "3",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Wahyu Dewanto, MT.2. Eka Firmansyah, S.T., M.Eng., Ph.D.",
+      "Jadwal": "Senin, 13:00-15:30"
+    },
+    {
+      "No": "98",
+      "Mata Kuliah": "TKDE262307 Elektronika Dasar Kelas: IUPTB",
+      "SKS": "3",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Eka Firmansyah, S.T., M.Eng., Ph.D.2. Prapto Nugroho, S.T., M.Eng., D.Eng.",
+      "Jadwal": "Jumat, 13:00-15:30"
+    },
+    {
+      "No": "99",
+      "Mata Kuliah": "TKEE262307 Pengukuran dan Instrumentasi Kelas: A",
+      "SKS": "2",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Ir. Oyas Wahyunggoro, MT., Ph.D.2. Harry Prabowo, S.T., M.T.",
+      "Jadwal": "Rabu, 07:00-09:30"
+    },
+    {
+      "No": "100",
+      "Mata Kuliah": "TKEE262308 Sistem Mikroprosesor Kelas: A",
+      "SKS": "2",
+      "Semester": "3",
+      "Prasyarat": "",
+      "Dosen": "1. Addin Suwastono, S.T., M.Eng.2. Agus Bejo, S.T., M.Eng., D.Eng.",
+      "Jadwal": "Jumat, 13:00-14:40"
+    },
+    {
+      "No": "101",
+      "Mata Kuliah": "TKEE262401 Telekomunikasi Dasar Kelas: A",
+      "SKS": "2",
+      "Semester": "4",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Wahyu Dewanto, MT.2. Dr. Iswandi, S.T., M.Eng.",
+      "Jadwal": "Rabu, 09:30-11:10"
+    },
+    {
+      "No": "102",
+      "Mata Kuliah": "TKEE262402 Analisis Untai Elektrik AC Kelas: A",
+      "SKS": "2",
+      "Semester": "4",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Bambang Sugiyantoro, M.T.2. Harry Prabowo, S.T., M.T.",
+      "Jadwal": "Kamis, 09:30-11:10"
+    },
+    {
+      "No": "103",
+      "Mata Kuliah": "TKEE262403 Teknik Pengolahan Isyarat Digital Kelas: A",
+      "SKS": "3",
+      "Semester": "4",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Dr. Eng. Ir. Risanuri Hidayat, M.Sc.2. Dzuhri Radityo Utomo, S.T., M.S., Ph.D.",
+      "Jadwal": "Senin, 13:00-15:30"
+    },
+    {
+      "No": "104",
+      "Mata Kuliah": "TKEE262404 Teknik Kendali Kelas: A",
+      "SKS": "3",
+      "Semester": "4",
+      "Prasyarat": "",
+      "Dosen": "1. Husni Rois Ali, S.T., M.Eng., Ph.D., DIC., SMIEEE.2. Muhammad Faris, S.T., M.Sc.",
+      "Jadwal": "Rabu, 09:30-12:00"
+    },
+    {
+      "No": "105",
+      "Mata Kuliah": "TKEE262405 Medan Elektromagnetik Kelas: A",
+      "SKS": "2",
+      "Semester": "4",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Iswandi, S.T., M.Eng.2. RR Eny Sukani Rahayu, S.T., M.Eng.",
+      "Jadwal": "Kamis, 07:00-08:40"
+    },
+    {
+      "No": "106",
+      "Mata Kuliah": "TKEE262407 Mesin DC dan Transformator Kelas: A",
+      "SKS": "2",
+      "Semester": "4",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Ir. Mokhammad Isnaeni Bambang Setyonegoro, M.T.2. Harry Prabowo, S.T., M.T.",
+      "Jadwal": "Jumat, 07:00-08:40"
+    },
+    {
+      "No": "107",
+      "Mata Kuliah": "TKEE262501 Sistem Komunikasi Kelas: A",
+      "SKS": "2",
+      "Semester": "5",
+      "Prasyarat": "",
+      "Dosen": "1. RR Eny Sukani Rahayu, S.T., M.Eng.2. Dr. Iswandi, S.T., M.Eng.",
+      "Jadwal": "Rabu, 07:00-08:40"
+    },
+    {
+      "No": "108",
+      "Mata Kuliah": "TKEE262502 Teknik Tenaga Listrik Kelas: A",
+      "SKS": "2",
+      "Semester": "5",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Ir. Mokhammad Isnaeni Bambang Setyonegoro, M.T.2. Avrin Nur Widiastuti, S.T., M.Eng.",
+      "Jadwal": "Senin, 09:30-11:10"
+    },
+    {
+      "No": "109",
+      "Mata Kuliah": "TKEE262503 Kecerdasan Artifisial Kelas: A",
+      "SKS": "2",
+      "Semester": "5",
+      "Prasyarat": "",
+      "Dosen": "1. Adhistya Erna Permanasari, S.T., M.T., Ph.D.2. Teguh Bharata Adji, S.T., M.T., M.Sc., Ph.D",
+      "Jadwal": "Jumat, 13:00-14:40"
+    },
+    {
+      "No": "110",
+      "Mata Kuliah": "TKEE262504 Perancangan Sistem Kendali Modern Kelas: A",
+      "SKS": "2",
+      "Semester": "5",
+      "Prasyarat": "",
+      "Dosen": "1. Adha Imam Cahyadi, S.T., M.Eng., D.Eng.2. Muhammad Faris, S.T., M.Sc.",
+      "Jadwal": "Selasa, 13:00-14:40"
+    },
+    {
+      "No": "111",
+      "Mata Kuliah": "TKEE262505 Teknik Optimisasi Kelas: A",
+      "SKS": "2",
+      "Semester": "5",
+      "Prasyarat": "",
+      "Dosen": "1. Yusuf Susilo Wijoyo, S.T., M.Eng.",
+      "Jadwal": "Jumat, 09:00-10:40"
+    },
+    {
+      "No": "112",
+      "Mata Kuliah": "TKEE262506 Mesin Asinkron dan Sinkron Kelas: A",
+      "SKS": "2",
+      "Semester": "5",
+      "Prasyarat": "",
+      "Dosen": "1. Dr. Ir. Mokhammad Isnaeni Bambang Setyonegoro, M.T.2. Dr. Rian Fatah Mochamad, S.T., M.Eng.",
+      "Jadwal": "Kamis, 13:00-14:40"
+    },
+    {
+      "No": "113",
+      "Mata Kuliah": "TKEE262507 Proyek Junior Teknik Elektro Kelas: A",
+      "SKS": "2",
+      "Semester": "5",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "114",
+      "Mata Kuliah": "TKEE262603 Sistem Komunikasi Nirkabel Kelas: A",
+      "SKS": "3",
+      "Semester": "6",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Wahyu Dewanto, MT.2. Prof. Dr. Eng. Ir. Risanuri Hidayat, M.Sc.",
+      "Jadwal": "Jumat, 09:00-11:30"
+    },
+    {
+      "No": "115",
+      "Mata Kuliah": "TKEE262606 Analisis Sistem Tenaga Kelas: A",
+      "SKS": "3",
+      "Semester": "6",
+      "Prasyarat": "",
+      "Dosen": "1. Lesnanto Multa Putranto, M.Eng., Ph.D.2. Husni Rois Ali, S.T., M.Eng., Ph.D., DIC., SMIEEE.3. Avrin Nur Widiastuti, S.T., M.Eng.4. Roni Irnawan, S.T., M.Sc., Ph.D.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "116",
+      "Mata Kuliah": "TKEE262607 Sistem Tenaga Listrik Modern Kelas: A",
+      "SKS": "3",
+      "Semester": "6",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Sarjiya, S.T., MT., Ph.D.2. Roni Irnawan, S.T., M.Sc., Ph.D.3. Lesnanto Multa Putranto, M.Eng., Ph.D.4. Dr. Wijaya Yudha Atmaja, S.T., M.Eng.",
+      "Jadwal": "Jumat, 09:00-11:30"
+    },
+    {
+      "No": "117",
+      "Mata Kuliah": "TKEE262608 Teknik Tegangan Tinggi Kelas: A",
+      "SKS": "3",
+      "Semester": "6",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Ir. Tumiran, M.Eng., Ph.D.2. Harry Prabowo, S.T., M.T.3. Mochammad Wahyudi, S.T., M.T.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "118",
+      "Mata Kuliah": "TKEE262609 Sistem Distribusi Listrik Kelas: A",
+      "SKS": "3",
+      "Semester": "6",
+      "Prasyarat": "",
+      "Dosen": "1. Ir. Bambang Sugiyantoro, M.T.2. Mochammad Wahyudi, S.T., M.T.",
+      "Jadwal": "Jumat, 13:00-15:30"
+    },
+    {
+      "No": "119",
+      "Mata Kuliah": "TKEE262610 Elektronika Daya Kelas: A",
+      "SKS": "3",
+      "Semester": "6",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Dr. Eng. Fransisco Danang Wijaya, S.T., M.T.2. Eka Firmansyah, S.T., M.Eng., Ph.D.3. Dr.-Ing. Yohan Fajar Sidik, S.T., M.Eng.",
+      "Jadwal": "Rabu, 13:00-15:30"
+    },
+    {
+      "No": "120",
+      "Mata Kuliah": "TKDE262701 Kerja Praktik Kelas: A",
+      "SKS": "2",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "121",
+      "Mata Kuliah": "TKDE262701 Kerja Praktik Kelas: B",
+      "SKS": "2",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "122",
+      "Mata Kuliah": "TKDE262701 Kerja Praktik Kelas: C",
+      "SKS": "2",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "123",
+      "Mata Kuliah": "TKEE262702 Desain Sirkuit Terintegrasi Isyarat Campuran Kelas: A",
+      "SKS": "3",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "1. Agus Bejo, S.T., M.Eng., D.Eng.2. Prapto Nugroho, S.T., M.Eng., D.Eng.3. Dzuhri Radityo Utomo, S.T., M.S., Ph.D.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "124",
+      "Mata Kuliah": "TKEE262703 Desain Sirkuit Terintegrasi Digital Kelas: A",
+      "SKS": "3",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "1. Agus Bejo, S.T., M.Eng., D.Eng.",
+      "Jadwal": "Selasa, 13:00-15:30"
+    },
+    {
+      "No": "125",
+      "Mata Kuliah": "TKEE262705 Operasi Sistem Tenaga Listrik Kelas: A",
+      "SKS": "3",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "1. Yusuf Susilo Wijoyo, S.T., M.Eng.2. Lesnanto Multa Putranto, M.Eng., Ph.D.",
+      "Jadwal": "Senin, 13:00-15:30"
+    },
+    {
+      "No": "126",
+      "Mata Kuliah": "TKEE262708 Fenomena dan Proteksi Transien Tegangan Tinggi Kelas: A",
+      "SKS": "3",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "1. Mochammad Wahyudi, S.T., M.T.2. Harry Prabowo, S.T., M.T.",
+      "Jadwal": "Rabu, 13:00-15:30"
+    },
+    {
+      "No": "127",
+      "Mata Kuliah": "TKEE262709 Desain Listrik Industri Kelas: A",
+      "SKS": "3",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Sarjiya, S.T., MT., Ph.D.2. Yusuf Susilo Wijoyo, S.T., M.Eng.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "128",
+      "Mata Kuliah": "TKEE262712 Elektronika Daya untuk Pengendalian Motor Kelas: A",
+      "SKS": "3",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Dr. Eng. Fransisco Danang Wijaya, S.T., M.T.2. Eka Firmansyah, S.T., M.Eng., Ph.D.3. Dr.-Ing. Yohan Fajar Sidik, S.T., M.Eng.",
+      "Jadwal": "Kamis, 07:00-09:30"
+    },
+    {
+      "No": "129",
+      "Mata Kuliah": "TKEE262716 Klasifikasi dan Pengenalan Pola Kelas: A",
+      "SKS": "3",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Dr. Eng. Ir. Risanuri Hidayat, M.Sc.",
+      "Jadwal": "Kamis, 13:00-15:30"
+    },
+    {
+      "No": "130",
+      "Mata Kuliah": "TKEE262719 Robot Bergerak dan Sistem Otonom Kelas: A",
+      "SKS": "3",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "1. Dr.Eng. Igi Ardiyanto, S.T., M.Eng2. Ahmad Ataka Awwalur Rizqi, S.T., Ph.D.",
+      "Jadwal": "Rabu, 07:00-09:30"
+    },
+    {
+      "No": "131",
+      "Mata Kuliah": "TKEE262720 Otomasi Industri Kelas: A",
+      "SKS": "3",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "1. Prof. Ir. Oyas Wahyunggoro, MT., Ph.D.2. Muhammad Faris, S.T., M.Sc.",
+      "Jadwal": "Senin, 13:00-15:30"
+    },
+    {
+      "No": "132",
+      "Mata Kuliah": "TKEE262723 Komunikasi dan Transmisi Digital Kelas: A",
+      "SKS": "3",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "1. Sigit Basuki Wibowo, S.T., M.Eng., Ph.D.2. RR Eny Sukani Rahayu, S.T., M.Eng.",
+      "Jadwal": "Senin, 13:00-15:30"
+    },
+    {
+      "No": "133",
+      "Mata Kuliah": "TKEE262727 Real Time Operating System Kelas: A",
+      "SKS": "3",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "1. Enas Dhuhri Kusuma, S.T., M.Eng.",
+      "Jadwal": "Jumat, 09:00-11:30"
+    },
+    {
+      "No": "134",
+      "Mata Kuliah": "TKEE262728 Internet of Things Kelas: A",
+      "SKS": "3",
+      "Semester": "7",
+      "Prasyarat": "",
+      "Dosen": "1. Addin Suwastono, S.T., M.Eng.2. Dr. Ir. I Wayan Mustika, S.T., M.Eng.",
+      "Jadwal": "Senin, 09:30-12:00"
+    },
+    {
+      "No": "135",
+      "Mata Kuliah": "TKDE262801 Proyek Individual Kelas: A",
+      "SKS": "3",
+      "Semester": "8",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "136",
+      "Mata Kuliah": "TKDE262801 Proyek Individual Kelas: B",
+      "SKS": "3",
+      "Semester": "8",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "137",
+      "Mata Kuliah": "TKDE262801 Proyek Individual Kelas: C",
+      "SKS": "3",
+      "Semester": "8",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": ""
+    },
+    {
+      "No": "138",
+      "Mata Kuliah": "TKDE262802 Studium Generale Kelas: A",
+      "SKS": "2",
+      "Semester": "8",
+      "Prasyarat": "",
+      "Dosen": "",
+      "Jadwal": "Jumat, 09:00-10:40"
+    }
+  ]
+}
